@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Weili-0234
+- 👋 Hi, I’m William(Weili) Xu!
 - 👀 I’m interested in Machine Learning Systems
 - 🌱 I’m currently studying Computer Engineering at ZJU-UIUC Institute
 - 💞️ I’m looking to collaborate on Computer Systems and Large Language Models (LLMs)
