@@ -5,7 +5,7 @@
 - 📫 How to reach me: weili.23@intl.zju.edu.cn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can speak Cantonese!
-- I have some experience in LC-3 assembly language and I am currently picking up C, C++ and Python.
+- I have some experience in LC-3 assembly language, C, and Python. I am currently picking up C++.
 - If you're interested in these languages, don't hesitate to reach out!
 
 <!---
