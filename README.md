@@ -5,8 +5,8 @@
 - 📫 How to reach me: weili.23@intl.zju.edu.cn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can speak Cantonese!
-- I have some experience in LC-3 assembly language, C, and Python. I am currently picking up C++.
-- If you're interested in these languages, don't hesitate to reach out!
+- I have some experience in LC-3 assembly language, C, C++, Java and Python. I am currently picking up CUDA and OpenAI Triton.
+- I'm serving as a TA for [ECE 120](https://canvas.illinois.edu/courses/51867/external_tools/13654) at UIUC in Fall 2024.
 
 <!---
 Weili-0234/Weili-0234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
