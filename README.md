@@ -1,6 +1,6 @@
 - 👋 Hi, this is Weili!
 - 👀 I’m interested in Machine Learning Systems
-- 💻 I’m currently studying Computer Engineering at University of Illinois Urbana-Champaign
+- 💻 I’m currently studying Computer Engineering at University of Illinois Urbana-Champaign (UIUC)
 - 💞️ I’m looking to collaborate on Computer Systems and Large Language Models (LLMs)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can speak Cantonese!
