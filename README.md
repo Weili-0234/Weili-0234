@@ -1,7 +1,6 @@
 - 👋 Hi, this is Weili!
 - 💻 I’m currently studying Computer Engineering at University of Illinois Urbana-Champaign (UIUC)
 - 🙋‍♂️ Pronouns: He/Him
-- 🐳 Fun fact: I am a huge fan of DeepSeek!
 - ⌨️ I have some experience in LC-3 assembly, C, C++, Java and Python. I am currently picking up CUDA and Triton.
 <!---
 Weili-0234/Weili-0234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
